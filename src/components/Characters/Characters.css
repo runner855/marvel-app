@@ -1,0 +1,32 @@
+.cards {
+  color: whitesmoke;
+  margin: 4em;
+  font-weight: 800;
+  font-size: 3em;
+}
+
+.title {
+  font-size: 1em;
+  color: whitesmoke;
+}
+
+.description {
+  font-size: 1em;
+  color: whitesmoke;
+}
+
+/* .container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: space-around;
+} */
+
+.characters {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: space-around;
+}
